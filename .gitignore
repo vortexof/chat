@@ -1,0 +1,5 @@
+html/
+latex/
+build-client-Desktop-Debug/
+build-server-Desktop-Debug/
+CMakeLists.txt.user
